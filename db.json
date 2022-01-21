@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Do some Vue",
-      "day": "Today",
-      "reminder": true
-    },
-    {
       "id": 3,
       "text": "Read some CleanCode",
       "day": "Today",
       "reminder": false
+    },
+    {
+      "id": 7013,
+      "text": "Done some VueJS",
+      "day": "Today",
+      "reminder": true
     }
   ]
 }
